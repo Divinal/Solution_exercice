@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-    Fraction a(4,5);      //Déclare une fraction valant 4/5
+    Fraction a(4);      //Déclare une fraction valant 4/5
     Fraction b(2);        //Déclare une fraction valant 2/1 (ce qui vaut 2)
     Fraction c;         //Déclare une fractions valant 0
 
