@@ -3,8 +3,8 @@
 //  main.cpp
 //  Fraction
 //
-//  Created by Ranga Gonnage on 16/12/2021.
-//
+//  Created par Mvouama Aldriche .
+//  Etudiant à Miage Casa
 
 #include <iostream>
 #include "Fraction.h"
@@ -23,7 +23,7 @@ int main()
     if(a == b)
         cout << "a est egal a b." << endl;
     else
-        cout << "a n’est pas egal a b." << endl;
+        cout << "a n est pas egal a b." << endl;
 
     return 0;
 }
