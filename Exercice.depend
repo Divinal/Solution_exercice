@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1712713413 source:c:\users\10\documents\dossier_personnel\001_application\language_de_prgrt%\language c++\open_classroom\exercice\fraction.cpp
+	<ostream.h>
+	"Fraction.h"
+
+1712718851 c:\users\10\documents\dossier_personnel\001_application\language_de_prgrt%\language c++\open_classroom\exercice\fraction.h
+	<iostream>
+
+1712713413 c:\users\10\documents\dossier_personnel\001_application\language_de_prgrt%\language c++\open_classroom\exercice\fraction.cpp
+	<ostream.h>
+	"Fraction.h"
+
+1712718916 source:c:\users\10\documents\dossier_personnel\001_application\language_de_prgrt%\language c++\open_classroom\exercice\main.cpp
+	<iostream>
+	"Fraction.h"
+
